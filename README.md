@@ -1,6 +1,6 @@
 # What's On TV <br> Search and Notify <br> Lovelace Card
 
-<img src="https://github.com/janfajessen/Seismic-World-Earthquakes/blob/044ed6b4bbc8e33a9ed2acd8e2abb300e2e35446/seismic_world_earthquakes.png?raw=true" alt="Seismic World Earthquakes" width="200">
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
@@ -21,6 +21,13 @@ A Lovelace card for searching your EPG and setting up automatic notifications wh
 > **Requires:** [What's On TV Integration](https://github.com/janfajessen/whatson_tv)
 >
 > **Pair with:** [What's On TV — EPG Card](https://github.com/janfajessen/whatsontv-epg-card) for the full experience
+
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
+
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
+
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
+
 
 ---
 
