@@ -5,11 +5,11 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red.svg?style=for-the-badge)](https://www.patreon.com/janfajessen)
 
-A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/YOUR_GITHUB_USER/whatson_tv) and pairs perfectly with the [EPG Card](https://github.com/YOUR_GITHUB_USER/whatsontv-epg-card).
+A Lovelace card for searching your EPG and setting up automatic notifications when a programme appears in the guide. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) and pairs perfectly with the [EPG Card](https://github.com/janfajessen/whatsontv-epg-card).
 
-> **Requires:** [What's On TV Integration](https://github.com/YOUR_GITHUB_USER/whatson_tv)
+> **Requires:** [What's On TV Integration](https://github.com/janfajessen/whatson_tv)
 >
-> **Pair with:** [What's On TV — EPG Card](https://github.com/YOUR_GITHUB_USER/whatsontv-epg-card) for the full experience
+> **Pair with:** [What's On TV — EPG Card](https://github.com/janfajessen/whatsontv-epg-card) for the full experience
 
 ---
 
@@ -210,7 +210,7 @@ action:
 ## Requirements
 
 - Home Assistant 2024.1+
-- [What's On TV Integration](https://github.com/YOUR_GITHUB_USER/whatson_tv) — required for sensors and watch storage
+- [What's On TV Integration](https://github.com/janfajessen/whatson_tv) — required for sensors and watch storage
 
 ---
 
