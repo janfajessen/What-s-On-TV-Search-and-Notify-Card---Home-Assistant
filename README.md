@@ -1,4 +1,4 @@
-# What's On TV <br>  Notify Lovelace Card
+# What's On TV <br> Search and Notify <br> Lovelace Card
 
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026.2%2B-41bdf5.svg?style=for-the-badge)](https://www.home-assistant.io/)
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5.svg?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
