@@ -7,8 +7,10 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-49-brightgreen?style=for-the-badge)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-teal?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/janfajessen)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge)](https://www.buymeacoffee.com/janfajessen)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge)](https://www.patreon.com/janfajessen)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)
+](https://www.buymeacoffee.com/janfajessen)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
 
 > **🔒 This card is available exclusively to supporters.**
 > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
@@ -70,7 +72,7 @@ The card sends channel artwork via `telegram_bot.send_photo` using `entity_id` �
 
 ```yaml
 type: custom:whatsontv-notify-card
-default_service: "notify.telegram_jan"
+default_service: "notify.telegram_myname"
 ```
 
 ---
