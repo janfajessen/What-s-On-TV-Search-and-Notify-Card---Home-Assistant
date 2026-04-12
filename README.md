@@ -13,6 +13,26 @@
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/janfajessen)
 
+## 🔍 Never miss what you want to watch
+
+The keyword watch system lets you search across all configured EPG sources simultaneously. Some ideas:
+
+- ⚽ **Lost the match live and want to see?** Set a watch for `"LaLiga"`,`"Champions"`,`"Libertadores"`, or `"Premier League"` — you'll get notified before the replay airs, without any spoilers in the notification
+- 🎬 **Looking for a classic you can never find?** Try `Funny games`, `"The Apartment"`,`Rope`, `"Casablanca"`, `"Blade Runner"`, `"The Godfather"` or `"2001"` — old films rotate on cable channels more often than you'd think
+- 📺 **Never miss your favourite show:** Set `"Jeopardy"`, `"MasterChef"`, `"Survivor"` or `"Who Wants to Be a Millionaire"` and get alerted before it starts
+- 🎤 **Music fan?** Search `Eminem`,`"Glastonbury"`, `"Eurovision"` or your favourite artist's name
+- 🌍 **Documentary hunter?** Try `"Planet Earth"`, `"Cosmos"` or `"Ken Burns"` — they rerun constantly on documentary channels
+- 🏎️ **Sports in general:** `ATP1000`,`"Formula 1"`, `"La vuelta"`, `"NBA"` — works across all your configured countries simultaneously
+- 🦈 The ultimate channel surfing trap: Set `"Jaws"` — it's been airing every summer weekend since 1975 and somehow always catches you off guard
+- 🎄 Tired of missing the annual TV tradition? Set a watch for `"Home Alone"` — because it airs every Christmas on at least 12 channels simultaneously, and somehow you always miss it
+
+> The **Word** match mode finds `"Friends"` but not `"Girlfriends"` or `"Unfriendly"`. The **Contains** mode is broader. Use **Exact** only for very specific titles.
+
+A worldwide EPG (Electronic Programme Guide) integration for Home Assistant. Turns any XMLTV-compatible TV guide source into HA sensors — one sensor per channel, updated automatically.
+
+> **Highly recommended companions:**
+> - 📺 [What's On TV — EPG Card](https://github.com/YOUR_GITHUB_USER/whatsontv-epg-card) — visual TV guide card for Lovelace
+
 
 > **🔒 This card is available exclusively to supporters.**
 > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
