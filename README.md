@@ -2,7 +2,7 @@
 
 <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.24.1-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-49-brightgreen?style=for-the-badge)
@@ -11,6 +11,9 @@
 ](https://www.buymeacoffee.com/janfajessen)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/janfajessen)
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-lightblue?style=for-the-badge&logo=opencollective)](https://opencollective.com/janfajessen)
+[![Liberapay](https://img.shields.io/badge/Liberapay-Support-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/janfajessen)
 
 > **🔒 This card is available exclusively to supporters.**
 > After contributing via Ko-Fi, Buy Me a Coffee or Patreon, open an issue or contact via GitHub with your username and the platform used — access to the private repository will be granted manually.
@@ -50,7 +53,10 @@ This card is distributed as a private repository. Once you have been granted acc
 ### Manual
 
 1. Copy `whatsontv-notify-card.js` to `config/www/`
-2. Add as a resource in **Settings → Dashboards → Resources**
+2. In Home Assistant go to **Settings → Dashboards** → ⋮ → **Resources** → **+ Add Resource**
+3. Set URL to `/local/whatsontv-notify-card.js` and type to **JavaScript module**
+
+> **Tip:** Add `?v=1.0.0` to the URL to force browsers to reload after updates — e.g. `/local/whatsontv-notify-card.js?v=3.24.1`
 
 ---
 
