@@ -1,6 +1,6 @@
 <div align="center">
 
-# What's On TV — <br> Search & Notify Card <br> Lovelace Card
+# What's On TV — <br> Search & Notify Card <br> Home Assistant Lovelace Card
 
 <img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
 
