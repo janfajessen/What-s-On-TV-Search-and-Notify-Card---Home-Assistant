@@ -178,17 +178,15 @@ action:
 ---
 
 ## Requirements
+<div align="center">
+<a href="https://www.home-assistant.io/"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/b3645cf0af684bdde893675cb4c80660424873ba/home_assistant_logo.png" alt="Home Assistant" width="60">
+</div>
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td valign="middle"><a href="https://www.home-assistant.io/"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/b3645cf0af684bdde893675cb4c80660424873ba/home_assistant_logo.png" alt="Home Assistant" width="60"></a></td>
-<td valign="middle"><b><a href="https://www.home-assistant.io/">Home Assistant 2024.1+</a></b></td>
-</tr>
-<tr>
-<td valign="middle"><a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="100"></a></td>
-<td valign="middle"><b><a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide">What's On TV Integration</a></b> — required for sensors and watch storage</td>
-</tr>
-</table>
+<a href="https://www.home-assistant.io/">Home Assistant 2024.1+</a>
+<div align="center">
+<a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide"><img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="100">
+</div>
+<a href="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide">What's On TV Integration></a>— required for sensors and watch storage
 
 ---
 
