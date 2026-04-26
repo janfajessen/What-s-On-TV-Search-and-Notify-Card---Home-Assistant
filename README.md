@@ -2,9 +2,9 @@
 
 # What's On TV — <br> Search & Notify Card <br> Home Assistant Lovelace Card
 
-<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card/blob/297b38ed5f117f3e127bd9932c1b2c2dc41d6b9f/What's%20On%20TV.png" alt="What's On TV" width="300">
+<img src="https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card---Home-Assistant/blob/b0bfdedda91bcb91d8f40e5f2a4862313d183947/brand/logo%402x.png" alt="What's On TV" width="450">
 
-![Version](https://img.shields.io/badge/version-3.24.1-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.26.3-blue?style=for-the-badge)
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-49-brightgreen?style=for-the-badge)
@@ -73,7 +73,7 @@ This card is distributed as a private repository. Once you have been granted acc
 ### Via HACS
 
 1. Open HACS → **Frontend** → ⋮ → **Custom repositories**
-2. Add the private repository URL — category **Lovelace**
+2. Add the private repository URL — category **Dashboard**
 3. Search for **What's On TV Search & Notify Card** and install
 
 ### Manual
